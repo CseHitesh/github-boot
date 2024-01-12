@@ -35,4 +35,4 @@ const makeCommit = (n) => {
 };
 
 // Call makeCommit with the desired number of commits (e.g., 500)
-makeCommit(500);
+makeCommit(1000);
